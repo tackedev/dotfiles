@@ -1,0 +1,21 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"Color Highlighter",
+		"CSS3",
+		"Emmet",
+		"Git",
+		"HTML5",
+		"JsPrettier",
+		"Material Theme",
+		"Naomi",
+		"Package Control",
+		"Terminus",
+		"TypeScript",
+	],
+}

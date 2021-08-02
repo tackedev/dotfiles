@@ -1,0 +1,12 @@
+[
+	{ 
+        "keys": ["alt+`"], "command": "toggle_terminus_panel", "args": {
+        	"cwd": "${file_path:${folder}}",
+        	"cwd": "~/.zshrc",
+        }
+    },
+
+    {
+    	"keys": ["ctrl+alt+f"], "command": "js_prettier"
+    }
+]
